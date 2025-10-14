@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.String?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.effect.GaussianBlur?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.shape.Rectangle?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane id="AnchorPane" prefHeight="456.0" prefWidth="778.0" style="-fx-background-color: linear-gradient(to bottom, #1a1a1a, #800000);" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controller.AcceuilController">
+   <children>
+      <ImageView id="15" fitHeight="279.0" fitWidth="787.0" layoutX="22.0" layoutY="84.0" pickOnBounds="true" smooth="false">
+         <image>
+            <Image url="@../Image/acceuil.jpg" />
+         </image>
+         <styleClass>
+            <String fx:value="-fx-border-radius" />
+            <String fx:value="-fx-border-radius" />
+         </styleClass>
+         <effect>
+            <GaussianBlur radius="11.77" />
+         </effect>
+      </ImageView>
+      <StackPane layoutX="14.0" layoutY="46.0" prefHeight="342.0" prefWidth="810.0">
+         <children>
+            <Rectangle arcHeight="30.0" arcWidth="30.0" fill="#05050563" height="296.0" stroke="#fafafad8" strokeType="INSIDE" width="805.0" />
+            <Text fx:id="bienvenueText" fill="#f7f7f7" stroke="WHITE" strokeType="OUTSIDE" strokeWidth="0.0" style="-fx-font-size: 36px; -fx-font-weight: bold;" text="Bienvenue dans notre service! Parki_TUNSI" textAlignment="CENTER" wrappingWidth="447.39953446388245">
+               <font>
+                  <Font name="Arial Black" size="42.0" />
+               </font>
+            </Text>
+         </children>
+      </StackPane>
+      <Button fx:id="reservationButton" layoutY="1.0" mnemonicParsing="false" style="-fx-background-color: #000000;" text="Réservation" textAlignment="CENTER" textFill="WHITE">
+         <font>
+            <Font name="Arial Black" size="12.0" />
+         </font>
+      </Button>
+      <Button fx:id="ticketButton" layoutX="95.0" layoutY="1.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="79.0" style="-fx-background-color: #000000;" text="Ticket" textAlignment="CENTER" textFill="WHITE">
+         <font>
+            <Font name="Arial Black" size="12.0" />
+         </font>
+      </Button>
+      <Button fx:id="materielButton" layoutX="167.0" layoutY="1.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="79.0" style="-fx-background-color: #000000;" text="Matériel" textAlignment="CENTER" textFill="WHITE">
+         <font>
+            <Font name="Arial Black" size="12.0" />
+         </font>
+      </Button>
+      <Button fx:id="placeParkingButton" layoutX="246.0" layoutY="1.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="136.0" style="-fx-background-color: #000000;" text="Place_Parking" textAlignment="CENTER" textFill="WHITE">
+         <font>
+            <Font name="Arial Black" size="12.0" />
+         </font>
+      </Button>
+      <Button fx:id="serviceButton" layoutX="376.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="136.0" style="-fx-background-color: #000000;" text="Service" textAlignment="CENTER" textFill="WHITE">
+         <font>
+            <Font name="Arial Black" size="12.0" />
+         </font>
+      </Button>
+   </children>
+</AnchorPane>

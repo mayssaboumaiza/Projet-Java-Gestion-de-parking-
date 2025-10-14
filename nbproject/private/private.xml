@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/hadil/OneDrive/Bureau/Gestion_de_Parking/src/Model/gestion_reservation_et_paiement/Reservation.java</file>
+            <file>file:/C:/Users/hadil/OneDrive/Bureau/Gestion_de_Parking/src/Model/gestion_ressources/Local.java</file>
+            <file>file:/C:/Users/hadil/OneDrive/Bureau/Gestion_de_Parking/src/Model/gestion_vehicule/VoitureComparators.java</file>
+            <file>file:/C:/Users/hadil/OneDrive/Bureau/Gestion_de_Parking/src/View/ConsultetPlacesVides.fxml</file>
+            <file>file:/C:/Users/hadil/OneDrive/Bureau/Gestion_de_Parking/src/gestion_de_parking/ValeurNegativeException.java</file>
+            <file>file:/C:/Users/hadil/OneDrive/Bureau/Gestion_de_Parking/src/Controller/AcceuilController.java</file>
+            <file>file:/C:/Users/hadil/OneDrive/Bureau/Gestion_de_Parking/src/Controller/ReservationPlaceParking.java</file>
+            <file>file:/C:/Users/hadil/OneDrive/Bureau/Gestion_de_Parking/src/gestion_de_parking/Gestion_de_Parking.java</file>
+            <file>file:/C:/Users/hadil/OneDrive/Bureau/Gestion_de_Parking/src/Controller/LoginController.java</file>
+            <file>file:/C:/Users/hadil/OneDrive/Bureau/Gestion_de_Parking/src/Model/gestion_reservation_et_paiement/Tarif_nuit.java</file>
+            <file>file:/C:/Users/hadil/OneDrive/Bureau/Gestion_de_Parking/src/Controller/GestionPlacesController.java</file>
+            <file>file:/C:/Users/hadil/OneDrive/Bureau/Gestion_de_Parking/src/View/Ticket.fxml</file>
+            <file>file:/C:/Users/hadil/OneDrive/Bureau/Gestion_de_Parking/src/Model/gestion_reservation_et_paiement/Tarif.java</file>
+            <file>file:/C:/Users/hadil/OneDrive/Bureau/Gestion_de_Parking/src/Model/gestion_ressources/ServiceMaintenance.java</file>
+            <file>file:/C:/Users/hadil/OneDrive/Bureau/Gestion_de_Parking/src/gestion_de_parking/ErreurMateriel.java</file>
+            <file>file:/C:/Users/hadil/OneDrive/Bureau/Gestion_de_Parking/src/Controller/MaterielController.java</file>
+            <file>file:/C:/Users/hadil/OneDrive/Bureau/Gestion_de_Parking/src/Controller/ServiceController.java</file>
+            <file>file:/C:/Users/hadil/OneDrive/Bureau/Gestion_de_Parking/src/Model/gestion_vehicule/Moto.java</file>
+            <file>file:/C:/Users/hadil/OneDrive/Bureau/Gestion_de_Parking/src/Model/gestion_utilisateur/client.java</file>
+            <file>file:/C:/Users/hadil/OneDrive/Bureau/Gestion_de_Parking/src/View/reservation.fxml</file>
+            <file>file:/C:/Users/hadil/OneDrive/Bureau/Gestion_de_Parking/src/Model/gestion_reservation_et_paiement/Tarif_Matin.java</file>
+            <file>file:/C:/Users/hadil/OneDrive/Bureau/Gestion_de_Parking/src/Model/gestion_ressources/StatutMateriel.java</file>
+            <file>file:/C:/Users/hadil/OneDrive/Bureau/Gestion_de_Parking/src/Model/gestion_vehicule/PlaceParking.java</file>
+            <file>file:/C:/Users/hadil/OneDrive/Bureau/Gestion_de_Parking/src/Controller/TicketController.java</file>
+            <file>file:/C:/Users/hadil/OneDrive/Bureau/Gestion_de_Parking/src/View/Service.fxml</file>
+            <file>file:/C:/Users/hadil/OneDrive/Bureau/Gestion_de_Parking/src/Model/gestion_reservation_et_paiement/ticket.java</file>
+            <file>file:/C:/Users/hadil/OneDrive/Bureau/Gestion_de_Parking/src/Model/gestion_vehicule/voiture.java</file>
+            <file>file:/C:/Users/hadil/OneDrive/Bureau/Gestion_de_Parking/src/Model/gestion_ressources/Materiel.java</file>
+            <file>file:/C:/Users/hadil/OneDrive/Bureau/Gestion_de_Parking/src/Model/gestion_utilisateur/personne.java</file>
+            <file>file:/C:/Users/hadil/OneDrive/Bureau/Gestion_de_Parking/src/Model/gestion_utilisateur/ClientComparators.java</file>
+            <file>file:/C:/Users/hadil/OneDrive/Bureau/Gestion_de_Parking/src/gestion_de_parking/ErreurMoto.java</file>
+            <file>file:/C:/Users/hadil/OneDrive/Bureau/Gestion_de_Parking/src/Model/gestion_ressources/Service.java</file>
+            <file>file:/C:/Users/hadil/OneDrive/Bureau/Gestion_de_Parking/src/View/Acceuil.fxml</file>
+            <file>file:/C:/Users/hadil/OneDrive/Bureau/Gestion_de_Parking/src/View/Login.fxml</file>
+            <file>file:/C:/Users/hadil/OneDrive/Bureau/Gestion_de_Parking/src/Model/gestion_vehicule/Assurrance.java</file>
+            <file>file:/C:/Users/hadil/OneDrive/Bureau/Gestion_de_Parking/src/Model/gestion_utilisateur/Agent.java</file>
+            <file>file:/C:/Users/hadil/OneDrive/Bureau/Gestion_de_Parking/src/Model/gestion_vehicule/Vehicule.java</file>
+            <file>file:/C:/Users/hadil/OneDrive/Bureau/Gestion_de_Parking/src/View/Materiel.fxml</file>
+            <file>file:/C:/Users/hadil/OneDrive/Bureau/Gestion_de_Parking/src/gestion_de_parking/Erreurvoiture.java</file>
+        </group>
+    </open-files>
+</project-private>
